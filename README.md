@@ -1,4 +1,4 @@
-# D3D11-Hook-Imgui
+# 尘白禁区-辅助插件
 
 本仓库为一个基于 DXGI/D3D11 Present Hook + ImGui 的游戏叠加层示例，包含基础的 ESP 绘制与自瞄模块，用于技术研究与交流。
 
